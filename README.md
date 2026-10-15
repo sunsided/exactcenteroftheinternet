@@ -73,5 +73,11 @@ yarn build               # both -> build/exact, build/approximate
 yarn deploy              # sync both to GCS (DRY_RUN=1 to preview)
 ```
 
+## License
+
+The code in this repository is licensed under the [EUPL-1.2](LICENSE). The assets of the original
+2008 site in [`archive/2008/`](archive/2008) and [`static/`](static) (`arrow.jpg`, `center.jpg`)
+are kept here for preservation and are not covered by that license.
+
 And with that, the internet has its center back, give or take a few pixels. Take care, and don't be
 shy.

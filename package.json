@@ -13,6 +13,7 @@
 		"internet-history",
 		"joke"
 	],
+	"license": "EUPL-1.2",
 	"homepage": "https://exactcenteroftheinternet.com",
 	"repository": {
 		"type": "git",
