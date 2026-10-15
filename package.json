@@ -2,6 +2,22 @@
 	"name": "centeroftheinternet",
 	"private": true,
 	"version": "0.0.1",
+	"description": "Custodial rebuild of the 2008 exactcenteroftheinternet.com and its joke sibling, approximatecenteroftheinternet.com. Tables, not CSS.",
+	"keywords": [
+		"exactcenteroftheinternet",
+		"approximatecenteroftheinternet",
+		"sveltekit",
+		"static-site",
+		"wayback-machine",
+		"web-archaeology",
+		"internet-history",
+		"joke"
+	],
+	"homepage": "https://exactcenteroftheinternet.com",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sunsided/exactcenteroftheinternet.git"
+	},
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
