@@ -6,7 +6,7 @@ tip, a black dot of 3×3 pixels (about 0.79 mm on a 96 DPI screen, for those who
 about their centers). You clicked the dot, and the internet thanked you, told you it was pleased
 and that it loved you, and sent you off to browse the rest of it. Then the domain lapsed, and from
 2016 on the archive mostly remembers a squatter's spam blog about cloud security. A rather
-undignified retirement for the center of anything.
+undignified retirement for the center of anything ... so now [we're back](https://exactcenteroftheinternet.com/).
 
 I own that domain now, along with [approximatecenteroftheinternet.com](https://approximatecenteroftheinternet.com),
 which is a joke on the exact one: same page, give or take. This repository rebuilds both of them,
