@@ -209,9 +209,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sveltejs/kit@npm:^3.0.0":
-  version: 3.0.1
-  resolution: "@sveltejs/kit@npm:3.0.1"
+"@sveltejs/kit@npm:^3.1.1":
+  version: 3.1.1
+  resolution: "@sveltejs/kit@npm:3.1.1"
   dependencies:
     "@rolldown/pluginutils": "npm:^1.0.1"
     "@standard-schema/spec": "npm:^1.1.0"
@@ -234,7 +234,7 @@ __metadata:
       optional: true
   bin:
     svelte-kit: svelte-kit.js
-  checksum: 10c0/c5bf08e2c693b35ff05fc6b6bd99dcc974be4e10c311a22999592b46bf29725a699b5773ac0f8fa9efceacd5b9704b39d0eadc904cb3e8356c995cb1494ee9ee
+  checksum: 10c0/f7f86a3788f1f952749990baaeeb92a19885269879db6e44435410ef8698019f2dcb006b6b997b9953f3eda8cd9e23291d98998148d1b0237800e0cdb474b759
   languageName: node
   linkType: hard
 
@@ -311,7 +311,7 @@ __metadata:
   resolution: "centeroftheinternet@workspace:."
   dependencies:
     "@sveltejs/adapter-static": "npm:^4.0.0"
-    "@sveltejs/kit": "npm:^3.0.0"
+    "@sveltejs/kit": "npm:^3.1.1"
     "@sveltejs/vite-plugin-svelte": "npm:^7.2.0"
     "@types/node": "npm:^24"
     prettier: "npm:^3.8.3"
